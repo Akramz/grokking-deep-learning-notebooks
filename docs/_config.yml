@@ -1,7 +1,7 @@
-repository: fastai/nbdev
+repository: Akramz/grokking-deep-learning-notebooks
 output: web
-topnav_title: nbdev
-site_title: nbdev
+topnav_title: grokking-deep-learning-notebooks
+site_title: grokking-deep-learning-notebooks
 company_name: fast.ai
 description: Writing a library entirely in notebooks
 google_search: 000837339549978028235:vh0pq0omtgr
