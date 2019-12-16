@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="287b0246-d0bc-462e-81c1-9323631290ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/grok/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grok/_nbdev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/03.forward_propagation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/03.forward_propagation-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/04.gradient_descent-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/04.gradient_descent-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/05.Generalizing_GD-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/05.Generalizing_GD-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/06.Back_propagation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/06.Back_propagation-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/08.Regularization_Batching-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/08.Regularization_Batching-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/09.Probabilities_Non-Linearities-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/09.Probabilities_Non-Linearities-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/10.Intro_to_CNNs-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/10.Intro_to_CNNs-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/11.NNs_that_Understand_Language-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/11.NNs_that_Understand_Language-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/12.RNNs-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/12.RNNs-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/13.DL_framework-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/13.DL_framework-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/14.LSTMs_LM-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/14.LSTMs_LM-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03.forward_propagation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03.forward_propagation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.gradient_descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/04.gradient_descent.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.Generalizing_GD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05.Generalizing_GD.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.Back_propagation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06.Back_propagation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.Regularization_Batching.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/08.Regularization_Batching.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.Probabilities_Non-Linearities.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09.Probabilities_Non-Linearities.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.Intro_to_CNNs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10.Intro_to_CNNs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.NNs_that_Understand_Language.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11.NNs_that_Understand_Language.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.RNNs.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/12.RNNs.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.DL_framework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13.DL_framework.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.LSTMs_LM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/14.LSTMs_LM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/settings.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,5 +55,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576498643496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576498643496" />
   </component>
 </project>

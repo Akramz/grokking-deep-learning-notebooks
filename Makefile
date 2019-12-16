@@ -1,4 +1,4 @@
-SRC = $(wildcard nbs/*.ipynb)
+SRC = $(wildcard ./*.ipynb)
 
 all: nbdev docs
 
