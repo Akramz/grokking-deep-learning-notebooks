@@ -8,7 +8,7 @@ This repo is home to notes & the code that accompanies Andrew W. Trask's "Grokki
 
 The book requires no math background beyond basic arithmetic. It doesn't rely on a high-level library that might hide what's going on. Anyone can read the book and understand how deep learning really works. You won't just read the theory, you'll discover it yourself.
     
-> (You can Buy the Book from [Manning Publications](https: //www.manning.com/books/grokking-deep-learning) or [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)).
+> (You can Buy the Book from [Manning Publications](https://www.manning.com/books/grokking-deep-learning) or [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)).
 
 # Roadmap
 
